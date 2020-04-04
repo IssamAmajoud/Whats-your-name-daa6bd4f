@@ -35,7 +35,6 @@
 
 // Submit Check
 if (isset($_POST['submit'])) {
-
     $voornaam = $_POST['voornaam'];
 
     $achternaam = $_POST['achternaam'];
